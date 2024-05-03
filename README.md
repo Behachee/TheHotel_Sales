@@ -23,7 +23,7 @@ Provided dataset contains the following columns:
         - 2019: Sales for 2019 for each hotel and each period of time listed in the week column
         - 2020: Sales for 2020 for each hotel and each period of time listed in the week column
         
-        The challenge of the exercise is not to achieve the most efficient or sophisticated model from an algorithmic and/or coding perspective. However, we will pay particular attention to the following points: the overall organization of the workflow, preprocessing/features engineering, methodology for estimating performance, and discussions/comments on the generalizability and limitations of the algorithm.
+The challenge of the exercise is not to achieve the most efficient or sophisticated model from an algorithmic and/or coding perspective. However, we will pay particular attention to the following points: the overall organization of the workflow, preprocessing/features engineering, methodology for estimating performance, and discussions/comments on the generalizability and limitations of the algorithm.
         
 Please provide your notes, explanations, interpretation and insights within a pptx presentation by taking into consideration all the above.
 
